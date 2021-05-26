@@ -1,0 +1,42 @@
+div .movie {
+    display: inline-block;
+    width: 200px;
+    border: 4px ridge lightblue;
+    vertical-align: top;
+    margin: 10px;
+    padding: 5px;
+    text-align: center;
+}
+
+div #box1 {
+    display: block;
+}
+
+img {
+    width: 200px;
+}
+h2 {
+    font-size: 30px;
+}
+a {
+    text-decoration: right frontdc;
+    font-size: 25px;
+    color: blue;
+}
+.menu{
+    background-color: #888888;
+    width: 20%;
+    height:1000px;
+    position: absolute;
+}
+#content {
+    width: 70%;
+    margin-left: 24%;
+    padding: 3%;
+}
+.menu a{
+    color: honeydew;
+    display: block;
+    
+
+}
